@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="IdentityAliran3Jam" id="IdentityAliran3Jam">
+	<SimpleField name="FID_Aliran" type="int"></SimpleField>
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="FID_Pelang" type="int"></SimpleField>
+	<SimpleField name="Kode_Lokas" type="string"></SimpleField>
+	<SimpleField name="Nosamw" type="string"></SimpleField>
+	<SimpleField name="Nama" type="string"></SimpleField>
+	<SimpleField name="Alamat1" type="string"></SimpleField>
+	<SimpleField name="Alamat2" type="string"></SimpleField>
+	<SimpleField name="Alamat3" type="string"></SimpleField>
+	<SimpleField name="Alamat4" type="string"></SimpleField>
+	<SimpleField name="Tgl_pas" type="string"></SimpleField>
+	<SimpleField name="Stat_Smb" type="string"></SimpleField>
+	<SimpleField name="Jlw" type="string"></SimpleField>
+	<SimpleField name="No_met" type="string"></SimpleField>
+	<SimpleField name="Merk_met" type="string"></SimpleField>
+	<SimpleField name="Lokasi" type="string"></SimpleField>
+	<SimpleField name="Wilayah" type="string"></SimpleField>
+	<SimpleField name="Samb" type="string"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+</Schema>
+<Folder><name>IdentityAliran3Jam</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">-1</SimpleData>
+		<SimpleData name="Tgl_pas">1899/12/30</SimpleData>
+		<SimpleData name="X">0.00000000000</SimpleData>
+		<SimpleData name="Y">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915243706146,-1.25288665634212 116.915647848886,-1.25312594922721 116.915612141654,-1.25414329568135 116.915659676459,-1.25512473844213 116.91507697482,-1.25559150247559 116.91448240397,-1.2553640758682 116.913661883927,-1.25542987710409 116.913091105667,-1.25492118430849 116.912912763905,-1.25396367477881 116.913935467895,-1.25304211160814 116.914197094911,-1.25264715000775 116.915005723494,-1.2525514261643 116.915243706146,-1.25288665634212</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914504879102,-1.25301678147223 116.914473603049,-1.2529111301601 116.914311499626,-1.25296340713631 116.914343738466,-1.25306643568093 116.914504879102,-1.25301678147223</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.9145808452,-1.25325920077762 116.914549569142,-1.2531535494662 116.914387465705,-1.25320582644611 116.91441970455,-1.25330885498998 116.9145808452,-1.25325920077762</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914755976985,-1.25373897548726 116.914757017533,-1.25363902410558 116.914704021825,-1.25363902236882 116.914704981267,-1.25373996901455 116.914755976985,-1.25373897548726</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914551029772,-1.25382101112809 116.914549032611,-1.25370495823852 116.914462978516,-1.25370495541081 116.914462974653,-1.25382399292547 116.914551029772,-1.25382101112809</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914557030817,-1.25390196801781 116.914411976401,-1.2539029575433 116.914407970179,-1.25400996478424 116.914427983012,-1.25400996544269 116.914427018397,-1.25404099117983 116.914460965754,-1.25404198749504 116.914462004844,-1.25401503212263 116.914555026359,-1.25401096481765 116.914557030817,-1.25390196801781</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914901687785,-1.25406570124914 116.914858997611,-1.2539606819706 116.914693039534,-1.25401802530569 116.914730985527,-1.25411824938315 116.914901687785,-1.25406570124914</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914599663798,-1.25410711423053 116.914597134661,-1.25404138670779 116.914480520926,-1.2540459318387 116.91448305006,-1.25411166026606 116.914599663798,-1.25410711423053</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915239858548,-1.25416969697641 116.915108093563,-1.25416159357159 116.915100642324,-1.25428433298358 116.915232407315,-1.25429243638921 116.915239858548,-1.25416969697641</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915320170454,-1.25420112434621 116.915260132045,-1.25419813769954 116.915253161775,-1.25429112430817 116.915316164718,-1.25429411105166 116.915320170454,-1.25420112434621</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914389209565,-1.25433981007721 116.914332637293,-1.25428071784499 116.914246380903,-1.2543643713962 116.914302953175,-1.25442346453498 116.914389209565,-1.25433981007721</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91504799248,-1.25437397332738 116.914946001818,-1.25437903555439 116.914941995676,-1.25451200300544 116.914954966659,-1.25451100913585 116.914954001985,-1.25454402436594 116.915041983324,-1.25454402724226 116.91504799248,-1.25437397332738</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915055847764,-1.25443267854094 116.915051990066,-1.25453398691991 116.915163023382,-1.25453399054515 116.915163024929,-1.25448595954566 116.915147978479,-1.2544849647608 116.915148275973,-1.25443033017577 116.915151021099,-1.25434901168138 116.915057999831,-1.25434502875485 116.915055847764,-1.25443267854094</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914831025848,-1.25432773654058 116.914659500235,-1.25432344161128 116.914657918818,-1.25438739121245 116.914829445334,-1.25439168614213 116.914831025848,-1.25432773654058</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91514100843,-1.25454303527746 116.915047987159,-1.25453896187747 116.915045019756,-1.25462796872578 116.915133964641,-1.25462996202791 116.91514100843,-1.25454303527746</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913799121447,-1.25463606934478 116.913659109186,-1.25457211323809 116.913627086941,-1.25463506843655 116.913771102014,-1.25469712475333 116.913799121447,-1.25463606934478</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914905966933,-1.25469200611367 116.914931983508,-1.25469001656788 116.914929019789,-1.25463701038336 116.914803978137,-1.25463899668606 116.914805974857,-1.25476897964175 116.91490396259,-1.25476997714505 116.914905966933,-1.25469200611367</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915088005706,-1.25476003389111 116.914968968793,-1.25470096315313 116.91492397488,-1.25478698393487 116.914968965402,-1.25480598012949 116.91496103403,-1.25482099560765 116.915033968502,-1.25486097873977 116.915088005706,-1.25476003389111</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913787997247,-1.25481498668167 116.913728034122,-1.25479101488215 116.91370001482,-1.25484799992745 116.913706982034,-1.25484998965117 116.913671994795,-1.25492696528998 116.913726028021,-1.25494903787429 116.913787997247,-1.25481498668167</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914555002224,-1.25475504133846 116.914491034269,-1.25479501998183 116.914483030063,-1.25478298867218 116.914434035173,-1.25481401282861 116.914455974026,-1.25485100960617 116.914487994827,-1.25483201503268 116.914502965893,-1.25485698143909 116.914585019831,-1.25480596754213 116.914555002224,-1.25475504133846</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913879538262,-1.25475773232258 116.913775696761,-1.25470834079373 116.913746862001,-1.25477048184605 116.913848702614,-1.25481878763866 116.913879538262,-1.25475773232258</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91376354114,-1.2547071651515 116.913623528877,-1.25464320904268 116.91359150663,-1.25470616424059 116.913735520807,-1.25476822055948 116.91376354114,-1.2547071651515</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914532026638,-1.25470004409908 116.914498969832,-1.25465101681484 116.914422995043,-1.25470302520333 116.914455013636,-1.25475196198169 116.914532026638,-1.25470004409908</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914988973205,-1.25496201435533 116.914870010504,-1.2549149746613 116.914837024122,-1.25499502554727 116.914864967529,-1.25500497663934 116.91485799957,-1.25502596153082 116.914908030992,-1.25504703876166 116.914914035247,-1.25502903852959 116.914945016768,-1.25504296961 116.914957989879,-1.25500398448608 116.914969033455,-1.25500895993572 116.914988973205,-1.25496201435533</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914693946909,-1.25503267012313 116.91463076364,-1.25499067157231 116.914567388008,-1.25508725713293 116.914630571279,-1.25512925568538 116.914693946909,-1.25503267012313</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914621946755,-1.25517522453011 116.914601387841,-1.25521672001729 116.914648008807,-1.25524015033346 116.91466837175,-1.25519905110944 116.914693225831,-1.2551488830592 116.914646604867,-1.2551254527439 116.914621946755,-1.25517522453011</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913889015682,-1.25507396060515 116.913767013462,-1.25503904137495 116.91374203248,-1.25512099152996 116.913864033866,-1.25515401174171 116.913889015682,-1.25507396060515</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913795176689,-1.2551436973918 116.913715200487,-1.25512668950818 116.913701189418,-1.25518467021675 116.913780202013,-1.25520167806892 116.913795176689,-1.2551436973918</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913779979748,-1.25520900543725 116.913700003545,-1.25519199664833 116.913685992474,-1.25524997735672 116.913765005071,-1.25526698611421 116.913779979748,-1.25520900543725</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913954013779,-1.25525396613501 116.913842017776,-1.2552250175258 116.913822966415,-1.25528996264859 116.913935037058,-1.25531800744001 116.913954013779,-1.25525396613501</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913710573789,-1.25532236891748 116.913709634458,-1.25532216079929 116.913699997839,-1.25536603064187 116.913811994009,-1.25539000507407 116.913823409487,-1.25534731052897 116.913834010626,-1.25530298835478 116.913720977077,-1.25528100428648 116.913710573789,-1.25532236891748</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913549020707,-1.25514396063272 116.913490983741,-1.25515200895316 116.913488979235,-1.25526100665273 116.91353901054,-1.25525802362689 116.913539009423,-1.25529203408566 116.913598973411,-1.25528995521043 116.91360401751,-1.25516702845041 116.913549983524,-1.25516802185206 116.913549020707,-1.25514396063272</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914771643484,-1.25519013299534 116.914709976284,-1.25515892425815 116.914665574653,-1.25524702501851 116.914728798767,-1.25527705766412 116.914771643484,-1.25519013299534</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913669992708,-1.25493501547525 116.913566002975,-1.25488300113234 116.913535018106,-1.25494396596646 116.91350596381,-1.25493003493394 116.913482984994,-1.25497399480429 116.913565035067,-1.25501397827978 116.913580008826,-1.25498403868097 116.913631002784,-1.25501000058318 116.913669992708,-1.25493501547525</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915128252838,-1.25477779135818 116.915128251236,-1.25482751329043 116.915198220573,-1.2548305011698 116.915198222211,-1.25477961395036 116.915198223698,-1.25473344397233 116.915128254428,-1.2547284656959 116.915128252838,-1.25477779135818</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913505974847,-1.25459399799328 116.913476993894,-1.25456396645965 116.913550969261,-1.25449395670045 116.91349300822,-1.25443497930514 116.913375968557,-1.25454397227064 116.913462983327,-1.25463397730832 116.913505974847,-1.25459399799328</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913452984104,-1.25441498714809 116.913399989258,-1.25436098409964 116.913291028095,-1.2544640079484 116.91334402294,-1.25451801099905 116.913452984104,-1.25441498714809</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914577023061,-1.25453695695452 116.914510021771,-1.25442596749005 116.914421964043,-1.25448096017285 116.914488002654,-1.25459095531384 116.914577023061,-1.25453695695452</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915035013433,-1.25462498370769 116.915037016776,-1.25454999736694 116.914954001728,-1.25455198414539 116.914951997548,-1.25462498099338 116.915035013433,-1.25462498370769</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914064476415,-1.25456271932709 116.913931431326,-1.25450193000605 116.913904375589,-1.25456045312027 116.914035123108,-1.25462169472984 116.914064476415,-1.25456271932709</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913899262709,-1.25450563741285 116.913843969138,-1.25448700184483 116.913814985414,-1.25456904324614 116.913867981418,-1.25458803972438 116.913899262709,-1.25450563741285</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913828997853,-1.25446900092053 116.913757989317,-1.25446899856633 116.913757765628,-1.25451983420723 116.913827142648,-1.25452092127392 116.913828997853,-1.25446900092053</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914040983414,-1.25447000313568 116.913963972383,-1.25443399973211 116.913936991402,-1.25448800012405 116.914020005272,-1.25452201332983 116.914040983414,-1.25447000313568</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913159022275,-1.25437201191113 116.913096984659,-1.25431701335641 116.913017004758,-1.25441298310835 116.913076966974,-1.25446400080133 116.913159022275,-1.25437201191113</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913332020601,-1.25436595692337 116.913239965275,-1.25426401204522 116.913165990839,-1.25433302659702 116.913257008014,-1.25443298104595 116.913332020601,-1.25436595692337</coordinates></LinearRing></innerBoundaryIs></Polygon><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913823409487,-1.25534731052897 116.913710376008,-1.2553231560225 116.913710573789,-1.25532236891748 116.913823409487,-1.25534731052897</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">-1</SimpleData>
+		<SimpleData name="Tgl_pas">1899/12/30</SimpleData>
+		<SimpleData name="X">0.00000000000</SimpleData>
+		<SimpleData name="Y">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.907282354743,-1.24563349942407 116.907225253855,-1.24625108714163 116.906996914494,-1.2468830313228 116.906443956016,-1.24695841500213 116.906039989515,-1.24657597167788 116.906164342305,-1.24601726247315 116.906254924599,-1.24571963815485 116.906583138914,-1.24548027402045 116.907282354743,-1.24563349942407</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906762984096,-1.24595783380171 116.906716658783,-1.24594344972432 116.906669809862,-1.24609532076689 116.906716357237,-1.24610870965473 116.906762984096,-1.24595783380171</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906445731023,-1.24605472314702 116.90654276751,-1.24607776817139 116.906557816092,-1.24601671237903 116.906455753077,-1.24599273802226 116.906441902719,-1.24605341387188 116.906428993093,-1.24604899925299 116.906396969776,-1.24614099063346 116.906499996046,-1.24617500477016 116.906512969296,-1.24613402929458 116.906485025986,-1.24612498284726 116.906502001425,-1.24607396777177 116.906445731023,-1.24605472314702</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906465972482,-1.24624800045586 116.906385996926,-1.24622203648814 116.906345004229,-1.2463480380011 116.90642497889,-1.24637400106554 116.906465972482,-1.24624800045586</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906408004754,-1.24638802099519 116.906349006222,-1.24636902326055 116.90632698927,-1.24643595861496 116.906387026913,-1.24645495638738 116.906408004754,-1.24638802099519</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78713</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050104</SimpleData>
+		<SimpleData name="Nama">MUCHAMAD WIYOTO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/23</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1972/08/06</SimpleData>
+		<SimpleData name="Stat_Smb">CABUT METER</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">319724</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0104</SimpleData>
+		<SimpleData name="X">490431.50393399998</SimpleData>
+		<SimpleData name="Y">9861342.05085000023</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914040983414,-1.25447000313568 116.914020005272,-1.25452201332983 116.913936991402,-1.25448800012405 116.913963972383,-1.25443399973211 116.914040983414,-1.25447000313568</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78714</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050317</SimpleData>
+		<SimpleData name="Nama">MAHFANI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2005/01/24</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13024791</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0317</SimpleData>
+		<SimpleData name="X">490400.75380499999</SimpleData>
+		<SimpleData name="Y">9861324.76250999980</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913799121447,-1.25463606934478 116.913771102014,-1.25469712475333 116.913627086941,-1.25463506843655 116.913659109186,-1.25457211323809 116.913799121447,-1.25463606934478</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78719</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050109</SimpleData>
+		<SimpleData name="Nama">HJ.ARPATI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/40</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1972/08/06</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0109</SimpleData>
+		<SimpleData name="X">490485.73282099998</SimpleData>
+		<SimpleData name="Y">9861317.40733000077</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914532026638,-1.25470004409908 116.914455013636,-1.25475196198169 116.914422995043,-1.25470302520333 116.914498969832,-1.25465101681484 116.914532026638,-1.25470004409908</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78720</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050358</SimpleData>
+		<SimpleData name="Nama">MESJID HAJJAH SAGARIAH</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/-  PRONA III</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2011/12/20</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">21</SimpleData>
+		<SimpleData name="No_met">11009501</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0358</SimpleData>
+		<SimpleData name="X">490488.17962600000</SimpleData>
+		<SimpleData name="Y">9861338.71877999976</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914577023061,-1.25453695695452 116.914488002654,-1.25459095531384 116.914421964043,-1.25448096017285 116.914510021771,-1.25442596749005 116.914577023061,-1.25453695695452</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78724</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050204</SimpleData>
+		<SimpleData name="Nama">TAUFIK SUTARJO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/19</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2010/03/03</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">10002796</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0204</SimpleData>
+		<SimpleData name="X">490385.92614599998</SimpleData>
+		<SimpleData name="Y">9861289.51415999979</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913669992708,-1.25493501547525 116.913631002784,-1.25501000058318 116.913580008826,-1.25498403868097 116.913565035067,-1.25501397827978 116.913482984994,-1.25497399480429 116.91350596381,-1.25493003493394 116.913535018106,-1.25494396596646 116.913566002975,-1.25488300113234 116.913669992708,-1.25493501547525</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78725</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050137</SimpleData>
+		<SimpleData name="Nama">PAHALA MARPAUNG</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/42</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1972/08/06</SimpleData>
+		<SimpleData name="Stat_Smb">CABUT METER</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0137</SimpleData>
+		<SimpleData name="X">490412.08403299999</SimpleData>
+		<SimpleData name="Y">9861273.69988000020</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913889015682,-1.25507396060515 116.913864033866,-1.25515401174171 116.91374203248,-1.25512099152996 116.913767013462,-1.25503904137495 116.913889015682,-1.25507396060515</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78726</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050122</SimpleData>
+		<SimpleData name="Nama">SA`AL</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/71</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2009/05/12</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">09011693</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0122</SimpleData>
+		<SimpleData name="X">490402.90293300000</SimpleData>
+		<SimpleData name="Y">9861259.05092000030</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913779979748,-1.25520900543725 116.913765005071,-1.25526698611421 116.913685992474,-1.25524997735672 116.913700003545,-1.25519199664833 116.913779979748,-1.25520900543725</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78727</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050119</SimpleData>
+		<SimpleData name="Nama">NURDIN HADIANTO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/69</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1972/08/06</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13023383</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0119</SimpleData>
+		<SimpleData name="X">490406.06836700003</SimpleData>
+		<SimpleData name="Y">9861245.00575000048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913710573789,-1.25532236891748 116.913710376008,-1.2553231560225 116.913823409487,-1.25534731052897 116.913811994009,-1.25539000507407 116.913699997839,-1.25536603064187 116.913709634458,-1.25532216079929 116.913710573789,-1.25532236891748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78728</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050117</SimpleData>
+		<SimpleData name="Nama">SUGIONO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/21</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2009/05/12</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">09011695</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0117</SimpleData>
+		<SimpleData name="X">490402.50795399997</SimpleData>
+		<SimpleData name="Y">9861298.92294000089</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913787997247,-1.25481498668167 116.913726028021,-1.25494903787429 116.913671994795,-1.25492696528998 116.913706982034,-1.25484998965117 116.91370001482,-1.25484799992745 116.913728034122,-1.25479101488215 116.913787997247,-1.25481498668167</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78729</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050091</SimpleData>
+		<SimpleData name="Nama">TAUFIK SUTARJO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/17</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1972/08/06</SimpleData>
+		<SimpleData name="Stat_Smb">CABUT METER</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">224956</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0091</SimpleData>
+		<SimpleData name="X">490382.25634800002</SimpleData>
+		<SimpleData name="Y">9861260.37999000028</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913549020707,-1.25514396063272 116.913549983524,-1.25516802185206 116.91360401751,-1.25516702845041 116.913598973411,-1.25528995521043 116.913539009423,-1.25529203408566 116.91353901054,-1.25525802362689 116.913488979235,-1.25526100665273 116.913490983741,-1.25515200895316 116.913549020707,-1.25514396063272</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78782</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050235</SimpleData>
+		<SimpleData name="Nama">SUJADI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/53.A</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2000/08/28</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0235</SimpleData>
+		<SimpleData name="X">490331.14390099997</SimpleData>
+		<SimpleData name="Y">9861351.71759999916</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913159022275,-1.25437201191113 116.913076966974,-1.25446400080133 116.913017004758,-1.25441298310835 116.913096984659,-1.25431701335641 116.913159022275,-1.25437201191113</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78783</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050233</SimpleData>
+		<SimpleData name="Nama">RACHMANTO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/62</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2000/05/29</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14001223</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0233</SimpleData>
+		<SimpleData name="X">490349.05769300001</SimpleData>
+		<SimpleData name="Y">9861356.38071000017</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913332020601,-1.25436595692337 116.913257008014,-1.25443298104595 116.913165990839,-1.25433302659702 116.913239965275,-1.25426401204522 116.913332020601,-1.25436595692337</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78784</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050211</SimpleData>
+		<SimpleData name="Nama">JARMIDIN.D.</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.27/135</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1998/10/30</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">0051244</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0211</SimpleData>
+		<SimpleData name="X">490416.68563700002</SimpleData>
+		<SimpleData name="Y">9861335.56441999972</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913899262709,-1.25450563741285 116.913867981418,-1.25458803972438 116.913814985414,-1.25456904324614 116.913843969138,-1.25448700184483 116.913899262709,-1.25450563741285</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78785</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050231</SimpleData>
+		<SimpleData name="Nama">NURYADI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/73</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2000/05/29</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0231</SimpleData>
+		<SimpleData name="X">490362.76429999998</SimpleData>
+		<SimpleData name="Y">9861346.36254999973</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913452984104,-1.25441498714809 116.91334402294,-1.25451801099905 116.913291028095,-1.2544640079484 116.913399989258,-1.25436098409964 116.913452984104,-1.25441498714809</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78786</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050232</SimpleData>
+		<SimpleData name="Nama">BUDIYONO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/23</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2000/05/29</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0232</SimpleData>
+		<SimpleData name="X">490373.05100799998</SimpleData>
+		<SimpleData name="Y">9861336.16645999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913505974847,-1.25459399799328 116.913462983327,-1.25463397730832 116.913375968557,-1.25454397227064 116.91349300822,-1.25443497930514 116.913550969261,-1.25449395670045 116.913476993894,-1.25456396645965 116.913505974847,-1.25459399799328</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78787</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050225</SimpleData>
+		<SimpleData name="Nama">SARIJAN</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/27</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1999/10/14</SimpleData>
+		<SimpleData name="Stat_Smb">TUTUP LOKET</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">0021911</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0225</SimpleData>
+		<SimpleData name="X">490409.61069200002</SimpleData>
+		<SimpleData name="Y">9861340.27452000044</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913828997853,-1.25446900092053 116.913827142648,-1.25452092127392 116.913757765628,-1.25451983420723 116.913757989317,-1.25446899856633 116.913828997853,-1.25446900092053</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78791</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050369</SimpleData>
+		<SimpleData name="Nama">RD.SUPERMAS INO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/21</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2012/10/30</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">12039501</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0369</SimpleData>
+		<SimpleData name="X">490575.84597700002</SimpleData>
+		<SimpleData name="Y">9861367.70209000073</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915320170454,-1.25420112434621 116.915316164718,-1.25429411105166 116.915253161775,-1.25429112430817 116.915260132045,-1.25419813769954 116.915320170454,-1.25420112434621</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78792</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050305</SimpleData>
+		<SimpleData name="Nama">WIDODO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/89</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/16</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14046075</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0305</SimpleData>
+		<SimpleData name="X">490554.09470199997</SimpleData>
+		<SimpleData name="Y">9861330.32623000070</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91514100843,-1.25454303527746 116.915133964641,-1.25462996202791 116.915045019756,-1.25462796872578 116.915047987159,-1.25453896187747 116.91514100843,-1.25454303527746</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78793</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050313</SimpleData>
+		<SimpleData name="Nama">KUSRINI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/07</SimpleData>
+		<SimpleData name="Stat_Smb">TUTUP LOKET</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13037507</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0313</SimpleData>
+		<SimpleData name="X">490513.88722099998</SimpleData>
+		<SimpleData name="Y">9861429.32870000042</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914755976985,-1.25373897548726 116.914704981267,-1.25373996901455 116.914704021825,-1.25363902236882 116.914757017533,-1.25363902410558 116.914755976985,-1.25373897548726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78794</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050320</SimpleData>
+		<SimpleData name="Nama">KARDANI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/65</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/18</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14044591</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0320</SimpleData>
+		<SimpleData name="X">490488.95311200002</SimpleData>
+		<SimpleData name="Y">9861421.03428000025</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914551029772,-1.25382101112809 116.914462974653,-1.25382399292547 116.914462978516,-1.25370495541081 116.914549032611,-1.25370495823852 116.914551029772,-1.25382101112809</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78795</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050308</SimpleData>
+		<SimpleData name="Nama">HOLONG L TOBING</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/63</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/07</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0308</SimpleData>
+		<SimpleData name="X">490486.12975999998</SimpleData>
+		<SimpleData name="Y">9861399.18616000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914557030817,-1.25390196801781 116.914555026359,-1.25401096481765 116.914462004844,-1.25401503212263 116.914460965754,-1.25404198749504 116.914427018397,-1.25404099117983 116.914427983012,-1.25400996544269 116.914407970179,-1.25400996478424 116.914411976401,-1.2539029575433 116.914557030817,-1.25390196801781</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78796</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050311</SimpleData>
+		<SimpleData name="Nama">H.BAHRIAH</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/06</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/05/12</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13002152</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0311</SimpleData>
+		<SimpleData name="X">490533.76500700001</SimpleData>
+		<SimpleData name="Y">9861286.37123000063</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914988973205,-1.25496201435533 116.914969033455,-1.25500895993572 116.914957989879,-1.25500398448608 116.914945016768,-1.25504296961 116.914914035247,-1.25502903852959 116.914908030992,-1.25504703876166 116.91485799957,-1.25502596153082 116.914864967529,-1.25500497663934 116.914837024122,-1.25499502554727 116.914870010504,-1.2549149746613 116.914988973205,-1.25496201435533</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78797</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050316</SimpleData>
+		<SimpleData name="Nama">MUHARI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/04.A</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2005/01/24</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0316</SimpleData>
+		<SimpleData name="X">490528.42187100003</SimpleData>
+		<SimpleData name="Y">9861317.59112999961</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914905966933,-1.25469200611367 116.91490396259,-1.25476997714505 116.914805974857,-1.25476897964175 116.914803978137,-1.25463899668606 116.914929019789,-1.25463701038336 116.914931983508,-1.25469001656788 116.914905966933,-1.25469200611367</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78798</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050314</SimpleData>
+		<SimpleData name="Nama">WARSINI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/02</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/07</SimpleData>
+		<SimpleData name="Stat_Smb">TUTUP LOKET</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0314</SimpleData>
+		<SimpleData name="X">490544.51981600001</SimpleData>
+		<SimpleData name="Y">9861308.85315999947</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915088005706,-1.25476003389111 116.915033968502,-1.25486097873977 116.91496103403,-1.25482099560765 116.914968965402,-1.25480598012949 116.91492397488,-1.25478698393487 116.914968968793,-1.25470096315313 116.915088005706,-1.25476003389111</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78799</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050207</SimpleData>
+		<SimpleData name="Nama">DAHLAN SALEH</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/52.B</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1997/06/17</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0207</SimpleData>
+		<SimpleData name="X">490489.64258099999</SimpleData>
+		<SimpleData name="Y">9861305.50726000033</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914555002224,-1.25475504133846 116.914585019831,-1.25480596754213 116.914502965893,-1.25485698143909 116.914487994827,-1.25483201503268 116.914455974026,-1.25485100960617 116.914434035173,-1.25481401282861 116.914483030063,-1.25478298867218 116.914491034269,-1.25479501998183 116.914555002224,-1.25475504133846</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78806</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050210</SimpleData>
+		<SimpleData name="Nama">SALEH HUSIN</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/54</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">1998/08/03</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13023389</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0210</SimpleData>
+		<SimpleData name="X">490420.21398100001</SimpleData>
+		<SimpleData name="Y">9861254.38071000017</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913954013779,-1.25525396613501 116.913935037058,-1.25531800744001 116.913822966415,-1.25528996264859 116.913842017776,-1.2552250175258 116.913954013779,-1.25525396613501</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78880</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050234</SimpleData>
+		<SimpleData name="Nama">AL GAFUR</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/46</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/18</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14004553</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0234</SimpleData>
+		<SimpleData name="X">490404.59333300003</SimpleData>
+		<SimpleData name="Y">9861266.26947000064</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913795176689,-1.2551436973918 116.913780202013,-1.25520167806892 116.913701189418,-1.25518467021675 116.913715200487,-1.25512668950818 116.913795176689,-1.2551436973918</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78890</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050306</SimpleData>
+		<SimpleData name="Nama">SISWO HANDOKO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/80</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0306</SimpleData>
+		<SimpleData name="X">490521.29108200001</SimpleData>
+		<SimpleData name="Y">9861390.46454999968</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914901687785,-1.25406570124914 116.914730985527,-1.25411824938315 116.914693039534,-1.25401802530569 116.914858997611,-1.2539606819706 116.914901687785,-1.25406570124914</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78891</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050364</SimpleData>
+		<SimpleData name="Nama">MASJID BAITUL MU`MININ</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT. 85 / -</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2012/02/05</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">21</SimpleData>
+		<SimpleData name="No_met">110012897</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0364</SimpleData>
+		<SimpleData name="X">490555.55611499998</SimpleData>
+		<SimpleData name="Y">9861341.34531000070</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915055847764,-1.25443267854094 116.915148275973,-1.25443033017577 116.915147978479,-1.2544849647608 116.915163024929,-1.25448595954566 116.915163023382,-1.25453399054515 116.915051990066,-1.25453398691991 116.915055847764,-1.25443267854094</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78894</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050318</SimpleData>
+		<SimpleData name="Nama">ACHMAD RIFAI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2005/01/24</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13029929</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0318</SimpleData>
+		<SimpleData name="X">490396.79578799999</SimpleData>
+		<SimpleData name="Y">9861316.90410999954</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91376354114,-1.2547071651515 116.913735520807,-1.25476822055948 116.91359150663,-1.25470616424059 116.913623528877,-1.25464320904268 116.91376354114,-1.2547071651515</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78930</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050102</SimpleData>
+		<SimpleData name="Nama">WAGIRAN</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/09/42</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/18</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14044593</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0102</SimpleData>
+		<SimpleData name="X">490430.86087999999</SimpleData>
+		<SimpleData name="Y">9861332.85287999921</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914064476415,-1.25456271932709 116.914035123108,-1.25462169472984 116.913904375589,-1.25456045312027 116.913931431326,-1.25450193000605 116.914064476415,-1.25456271932709</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78938</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050348</SimpleData>
+		<SimpleData name="Nama">SUWARTIK</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/25</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2015/06/03</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">15024045</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0348</SimpleData>
+		<SimpleData name="X">490562.05252600001</SimpleData>
+		<SimpleData name="Y">9861306.09589000046</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915198222211,-1.25477961395036 116.915198220573,-1.2548305011698 116.915128251236,-1.25482751329043 116.915128252838,-1.25477779135818 116.915198222211,-1.25477961395036</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78939</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050360</SimpleData>
+		<SimpleData name="Nama">RIO FAJRIYANDI SOEMAWIJAYA</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/48  PRONA III</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/18</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">33</SimpleData>
+		<SimpleData name="No_met">14044594</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0360</SimpleData>
+		<SimpleData name="X">490407.36254599999</SimpleData>
+		<SimpleData name="Y">9861249.75283000059</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913823409487,-1.25534731052897 116.913710573789,-1.25532236891748 116.913720977077,-1.25528100428648 116.913834010626,-1.25530298835478 116.913823409487,-1.25534731052897</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78940</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050373</SimpleData>
+		<SimpleData name="Nama">KANTOR BMKG</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85 / -</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2013/01/01</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">12051833</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0373</SimpleData>
+		<SimpleData name="X">490505.78386800003</SimpleData>
+		<SimpleData name="Y">9861266.48991999961</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91466837175,-1.25519905110944 116.914621946755,-1.25517522453011 116.914646604867,-1.2551254527439 116.914693225831,-1.2551488830592 116.91466837175,-1.25519905110944</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78941</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050351</SimpleData>
+		<SimpleData name="Nama">BAMBANG BUDIARTO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/49.A</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2011/06/13</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">10010392</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0351</SimpleData>
+		<SimpleData name="X">490411.79587099998</SimpleData>
+		<SimpleData name="Y">9861310.52699000016</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.913879538262,-1.25475773232258 116.913848702614,-1.25481878763866 116.913746862001,-1.25477048184605 116.913775696761,-1.25470834079373 116.913879538262,-1.25475773232258</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78949</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050329</SimpleData>
+		<SimpleData name="Nama">RUMAH DINAS.BMG.II</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2008/03/06</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0329</SimpleData>
+		<SimpleData name="X">490512.60273799999</SimpleData>
+		<SimpleData name="Y">9861260.28250000067</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914771643484,-1.25519013299534 116.914728798767,-1.25527705766412 116.914665574653,-1.25524702501851 116.914709976284,-1.25515892425815 116.914771643484,-1.25519013299534</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">78999</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050307</SimpleData>
+		<SimpleData name="Nama">TOMMY EDWARD P</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/61</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/07</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13042585</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0307</SimpleData>
+		<SimpleData name="X">490492.71093499998</SimpleData>
+		<SimpleData name="Y">9861386.48661999963</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914599663798,-1.25410711423053 116.91448305006,-1.25411166026606 116.914480520926,-1.2540459318387 116.914597134661,-1.25404138670779 116.914599663798,-1.25410711423053</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79000</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050240</SimpleData>
+		<SimpleData name="Nama">SAPUAN</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.58/-</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2010/04/30</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">33</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0240</SimpleData>
+		<SimpleData name="X">490486.53923499997</SimpleData>
+		<SimpleData name="Y">9861479.86694999970</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.9145808452,-1.25325920077762 116.91441970455,-1.25330885498998 116.914387465705,-1.25320582644611 116.914549569142,-1.2531535494662 116.9145808452,-1.25325920077762</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79001</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050312</SimpleData>
+		<SimpleData name="Nama">FERRYTIODOR.P</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/07</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0312</SimpleData>
+		<SimpleData name="X">490478.08723499998</SimpleData>
+		<SimpleData name="Y">9861506.66145000048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914504879102,-1.25301678147223 116.914343738466,-1.25306643568093 116.914311499626,-1.25296340713631 116.914473603049,-1.2529111301601 116.914504879102,-1.25301678147223</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79002</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050310</SimpleData>
+		<SimpleData name="Nama">SUMADI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13055890</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0310</SimpleData>
+		<SimpleData name="X">490515.44897400000</SimpleData>
+		<SimpleData name="Y">9861355.42375000007</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914831025848,-1.25432773654058 116.914829445334,-1.25439168614213 116.914657918818,-1.25438739121245 116.914659500235,-1.25432344161128 116.914831025848,-1.25432773654058</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79003</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050332</SimpleData>
+		<SimpleData name="Nama">AHMAD SOFYAN,SE</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT 85</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2015/06/03</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">15023031</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0332</SimpleData>
+		<SimpleData name="X">490562.81569999998</SimpleData>
+		<SimpleData name="Y">9861369.85494999960</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915239858548,-1.25416969697641 116.915232407315,-1.25429243638921 116.915100642324,-1.25428433298358 116.915108093563,-1.25416159357159 116.915239858548,-1.25416969697641</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79004</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050331</SimpleData>
+		<SimpleData name="Nama">SRI MULYANI</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">JL.PRONA III RT 85/20</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2008/11/27</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0331</SimpleData>
+		<SimpleData name="X">490555.30243899999</SimpleData>
+		<SimpleData name="Y">9861351.92847999930</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915148275973,-1.25443033017577 116.915055847764,-1.25443267854094 116.915057999831,-1.25434502875485 116.915151021099,-1.25434901168138 116.915148275973,-1.25443033017577</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79005</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050333</SimpleData>
+		<SimpleData name="Nama">SD NEGERI 025</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.085/89</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2010/02/04</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">21</SimpleData>
+		<SimpleData name="No_met">09044845</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0333</SimpleData>
+		<SimpleData name="X">490543.39725099999</SimpleData>
+		<SimpleData name="Y">9861344.27714999951</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91504799248,-1.25437397332738 116.915041983324,-1.25454402724226 116.914954001985,-1.25454402436594 116.914954966659,-1.25451100913585 116.914941995676,-1.25451200300544 116.914946001818,-1.25437903555439 116.91504799248,-1.25437397332738</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79006</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050309</SimpleData>
+		<SimpleData name="Nama">TOMO</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.058/89.A</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13002158</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0309</SimpleData>
+		<SimpleData name="X">490543.28651300003</SimpleData>
+		<SimpleData name="Y">9861329.95566999912</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915035013433,-1.25462498370769 116.914951997548,-1.25462498099338 116.914954001728,-1.25455198414539 116.915037016776,-1.25454999736694 116.915035013433,-1.25462498370769</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79007</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050375</SimpleData>
+		<SimpleData name="Nama">LAODE  ADAM</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85 / 76.B</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2013/01/19</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">12039767</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0375</SimpleData>
+		<SimpleData name="X">490561.99462900002</SimpleData>
+		<SimpleData name="Y">9861311.51737000048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.915198222211,-1.25477961395036 116.915128252838,-1.25477779135818 116.915128254428,-1.2547284656959 116.915198223698,-1.25473344397233 116.915198222211,-1.25477961395036</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79008</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050328</SimpleData>
+		<SimpleData name="Nama">RUMAH DINAS.BMG.I</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT.85/..</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2008/03/06</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0328</SimpleData>
+		<SimpleData name="X">490503.26131400000</SimpleData>
+		<SimpleData name="Y">9861261.44974000007</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.91466837175,-1.25519905110944 116.914648008807,-1.25524015033346 116.914601387841,-1.25521672001729 116.914621946755,-1.25517522453011 116.91466837175,-1.25519905110944</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79009</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050354</SimpleData>
+		<SimpleData name="Nama">RASINAH</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT. 85 / 34</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2011/07/02</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">11005054</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0354</SimpleData>
+		<SimpleData name="X">490502.79084999999</SimpleData>
+		<SimpleData name="Y">9861277.78659999929</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914693946909,-1.25503267012313 116.914630571279,-1.25512925568538 116.914567388008,-1.25508725713293 116.91463076364,-1.25499067157231 116.914693946909,-1.25503267012313</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">79010</SimpleData>
+		<SimpleData name="Kode_Lokas">0105005</SimpleData>
+		<SimpleData name="Nosamw">01050050330</SimpleData>
+		<SimpleData name="Nama">MANGAPUL MANIK</SimpleData>
+		<SimpleData name="Alamat1">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Alamat2">RT 58</SimpleData>
+		<SimpleData name="Alamat3">SPINGGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2014/12/18</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">14004554</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL. SEPINGGAN/PRONA</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0330</SimpleData>
+		<SimpleData name="X">490467.98169599997</SimpleData>
+		<SimpleData name="Y">9861356.02711999975</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.914389209565,-1.25433981007721 116.914302953175,-1.25442346453498 116.914246380903,-1.2543643713962 116.914332637293,-1.25428071784499 116.914389209565,-1.25433981007721</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">80935</SimpleData>
+		<SimpleData name="Kode_Lokas">0105010</SimpleData>
+		<SimpleData name="Nosamw">01050100343</SimpleData>
+		<SimpleData name="Nama">LADIAMU</SimpleData>
+		<SimpleData name="Alamat1">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat2">RT.48/34</SimpleData>
+		<SimpleData name="Alamat3">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2015/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">15010028</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL.SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0343</SimpleData>
+		<SimpleData name="X">489598.18394600000</SimpleData>
+		<SimpleData name="Y">9862275.26838999987</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906445731023,-1.24605472314702 116.906441816413,-1.24605379385365 116.906441902719,-1.24605341387188 116.906455753077,-1.24599273802226 116.906557816092,-1.24601671237903 116.90654276751,-1.24607776817139 116.906445731023,-1.24605472314702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">81270</SimpleData>
+		<SimpleData name="Kode_Lokas">0105010</SimpleData>
+		<SimpleData name="Nosamw">01050100634</SimpleData>
+		<SimpleData name="Nama">BUDIYANTO</SimpleData>
+		<SimpleData name="Alamat1">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat2">RT.46/04</SimpleData>
+		<SimpleData name="Alamat3">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2015/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">15010024</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL.SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0634</SimpleData>
+		<SimpleData name="X">489583.51401500002</SimpleData>
+		<SimpleData name="Y">9862233.61297000013</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906408004754,-1.24638802099519 116.906387026913,-1.24645495638738 116.90632698927,-1.24643595861496 116.906349006222,-1.24636902326055 116.906408004754,-1.24638802099519</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">81271</SimpleData>
+		<SimpleData name="Kode_Lokas">0105010</SimpleData>
+		<SimpleData name="Nosamw">01050100596</SimpleData>
+		<SimpleData name="Nama">WA MIA</SimpleData>
+		<SimpleData name="Alamat1">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat2">RT. 46/31</SimpleData>
+		<SimpleData name="Alamat3">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2015/04/09</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">15014409</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL.SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0596</SimpleData>
+		<SimpleData name="X">489587.71677699999</SimpleData>
+		<SimpleData name="Y">9862246.21938999929</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906465972482,-1.24624800045586 116.90642497889,-1.24637400106554 116.906345004229,-1.2463480380011 116.906385996926,-1.24622203648814 116.906465972482,-1.24624800045586</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">81272</SimpleData>
+		<SimpleData name="Kode_Lokas">0105010</SimpleData>
+		<SimpleData name="Nosamw">01050100073</SimpleData>
+		<SimpleData name="Nama">SMU NOMOR IV</SimpleData>
+		<SimpleData name="Alamat1">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat2">RT.048/36</SimpleData>
+		<SimpleData name="Alamat3">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2003/07/22</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">21</SimpleData>
+		<SimpleData name="No_met">13024658</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL.SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0073</SimpleData>
+		<SimpleData name="X">489622.30813899997</SimpleData>
+		<SimpleData name="Y">9862276.25390999950</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906762984096,-1.24595783380171 116.906716357237,-1.24610870965473 116.906669809862,-1.24609532076689 116.906716658783,-1.24594344972432 116.906762984096,-1.24595783380171</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#IdentityAliran3Jam">
+		<SimpleData name="FID_Aliran">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="FID_Pelang">81273</SimpleData>
+		<SimpleData name="Kode_Lokas">0105010</SimpleData>
+		<SimpleData name="Nosamw">01050100788</SimpleData>
+		<SimpleData name="Nama">M. NUR KOSIM</SimpleData>
+		<SimpleData name="Alamat1">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat2">RT.37/13A</SimpleData>
+		<SimpleData name="Alamat3">SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Alamat4">BALIKPAPAN SELATAN</SimpleData>
+		<SimpleData name="Tgl_pas">2013/11/29</SimpleData>
+		<SimpleData name="Stat_Smb">AKTIF</SimpleData>
+		<SimpleData name="Jlw">32</SimpleData>
+		<SimpleData name="No_met">13052191</SimpleData>
+		<SimpleData name="Merk_met">LIN FLOW</SimpleData>
+		<SimpleData name="Lokasi">JL.SEPINGGAN BARU</SimpleData>
+		<SimpleData name="Wilayah">5</SimpleData>
+		<SimpleData name="Samb">0788</SimpleData>
+		<SimpleData name="X">489593.32652599999</SimpleData>
+		<SimpleData name="Y">9862266.59923000075</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>116.906441902719,-1.24605341387188 116.906441816413,-1.24605379385365 116.906445731023,-1.24605472314702 116.906502001425,-1.24607396777177 116.906485025986,-1.24612498284726 116.906512969296,-1.24613402929458 116.906499996046,-1.24617500477016 116.906396969776,-1.24614099063346 116.906428993093,-1.24604899925299 116.906441902719,-1.24605341387188</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
